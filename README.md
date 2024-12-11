@@ -6,20 +6,22 @@
    - Truy cập vào trang [tải Docker Desktop](https://www.docker.com/products/docker-desktop).
    - Làm theo hướng dẫn để cài đặt Docker cho Windows.
    - Sau khi cài đặt xong, khởi động Docker Desktop.
-
+2. **Login**
+3. Vào terminal trên docker desktop(không phải CMD trên windows)
+4. 
 2. **Cấu hình Docker**:
      wsl --install
+4. **Cài đặt xclip**
+   sudo apt update
+   sudo apt install xclip
+   xlip --version
 
-3. **Kiểm tra Docker**:
-   - Sau khi cài đặt và cấu hình Docker, mở Command Prompt hoặc PowerShell và kiểm tra Docker:
-     ```powershell
-     docker --version
-     ```
-   - Nếu Docker được cài đặt thành công, bạn sẽ thấy phiên bản Docker.
+5. chạy docker
+ docker pull tuhoccode/botid:real
+docker run
 
-## Chạy Ubuntu container
-
-1. **Tải image Ubuntu**:
-   Mở PowerShell hoặc Command Prompt và chạy lệnh sau để tải image Ubuntu từ Docker Hub:
-   ```powershell
-   docker pull ubuntu
+7. Vào telegram
+   - Search: afavvbot
+   - gõ /id để chạy bot
+   - tác dụng: bot tự động lấy tài khoản ilcoud để tải một ứng dụng trả phí(ở đây là shadowrocket)
+   - Chú Ý(chữ đỏ): tài khoản này có thể dùng nhưng không được LOGIN vào CÀI ĐẶT trên iphone(KHÓA MÁY không cứu được), chỉ được login trên APPSTORE(vào mục 'ứng dụng' để tải và đăng xuất ra)
