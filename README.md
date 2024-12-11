@@ -33,4 +33,4 @@
    - tác dụng: bot tự động lấy tài khoản ilcoud để tải một ứng dụng trả phí(ở đây là shadowrocket)
    - ## NGHIÊM TRỌNG:
    -  ## Tài khoản này có thể dùng nhưng không được LOGIN vào CÀI ĐẶT trên iphone(KHÓA MÁY không cứu được)
-   -  ## Chỉ được login trên APPSTORE(vào mục 'ứng dụng' để tải và đăng xuất ra)
+   -  ## Chỉ được login trên APPSTORE(vào mục 'ứng dụng' để tải và đăng xuất ra) 
