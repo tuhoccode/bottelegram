@@ -41,5 +41,4 @@ time.sleep(5)
 with open("id.txt", "a") as file:
     file.write(clipboard_text + "\n")  
 
-# Kiểm tra kết quả (tuỳ chọn)
 print(f"Đã sao chép tk, mk và ghi vào file id.txt: {clipboard_text}")
